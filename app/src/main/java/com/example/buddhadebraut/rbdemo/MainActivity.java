@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
     Button btn;
     RadioGroup rg;
-    RadioButton rb;
+    RadioButton rb;//pppp
     
     @Override
     protected void onCreate(Bundle savedInstanceState) {
